@@ -6,6 +6,10 @@ body {
 .app-container{
   padding:30px;
 }
+.selected{
+  font-style:italic;
+  color:#a3a3a3;
+}
 .contact-list-container{
   padding:20px;
 }

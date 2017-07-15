@@ -1,11 +1,10 @@
 import React from 'react';
-
+import {Link} from 'react-router-dom';
 export default function ContactCard(props){
-     
-    console.log(props);
     return(
 
                 <div className="contact-card">
+                    <Link style={{display:'block'}} to={`/contact/${props.contact.id}`}>Inspect Me</Link>
                     <label>Name: </label>
                     <span>{ props.contact.name }</span>
                     <label>Email Address: </label>

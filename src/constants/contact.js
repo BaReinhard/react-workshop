@@ -2,6 +2,7 @@ export default [
     
     
     {
+    id:1,
     name: "Brett asdasasdlksafjkhasd",
     email: "brett@reinhards.us",
     phoneNumber: '818-425-6323',
@@ -10,35 +11,43 @@ export default [
     tags:['Friend']
 },
 {
-    name: "Brett asdasd",
+    id:2,
+    name: "Crett asdasd",
     email: "brett@reinhards.us",
     phoneNumber: '818-425-6323',
     address: "3017 Sunnynook Drive, Los Angeles",
     favorite:true,
     tags:['Best Friend']
 },{
-    name: "Brett No",
+    id:3,
+    name: "Drett No",
     email: "brett@reinhards.us",
     phoneNumber: '818-425-6323',
     address: "3017 Sunnynook Drive, Los Angeles",
     favorite:true,
     tags:['Business Contact']
 },{
-    name: "Brett asdas",
+
+    id:4,
+    name: "Erett asdas",
     email: "brett@reinhards.us",
     phoneNumber: '818-425-6323',
     address: "3017 Sunnynook Drive, Los Angeles",
     favorite:false,
     tags:['Associate']
 },{
-    name: "Brett Me",
+
+    id:5,
+    name: "Frett Me",
     email: "brett@reinhards.us",
     phoneNumber: '818-425-6323',
     address: "3017 Sunnynook Drive, Los Angeles",
     favorite:true,
     tags:['Family']
 },{
-    name: "Brett Reinhasasdard",
+
+    id:6,
+    name: "Grett Reinhasasdard",
     email: "brett@reinhards.us",
     phoneNumber: '818-425-6323',
     address: "3017 Sunnynook Drive, Los Angeles",
